@@ -1,4 +1,4 @@
-# Eminent Cars: AR-Car-Showroom
+# AR-Car-Showroom
 
 ### Problem Definition: 
 In this project, I’ve used AR technology from Vuforia, the Unity game engine, combining with voice-controlled, cloud-based artificial intelligence to build fully functional car showroom application. Users can see the different types of cars available in a showroom with all the features without being physically present over there
